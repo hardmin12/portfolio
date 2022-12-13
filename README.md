@@ -28,13 +28,12 @@
 
 ---
 
-### 2. [두 번째 프로젝트]()
->댕네 한바  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [댕네 한 바퀴]()
+>반려동물 친목 교류 사이트  (팀 프로젝트)  
+>개발 기간: 2022.11.19 ~ 2022.12.5  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 8 / Spring Boot / Maven / Spring Data JPA / Oracle / Spring Security  
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
