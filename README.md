@@ -17,20 +17,19 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+### 1. [Cosmetic](https://github.com/Integerous/goQuality)
+>화장품 쇼핑몰 (팀 프로젝트)  
+>개발 기간: 2022.11.15 ~ 2022.11.28  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 8 / Spring Boot / Maven / Mybatis/ Oracle 
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 ---
 
 ### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
+>댕네 한바  (팀 프로젝트)  
 >개발 기간: 2020.7.18 ~ 2020.11.5  
 >  
 >기술 스택:  
