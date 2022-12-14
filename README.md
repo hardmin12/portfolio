@@ -24,7 +24,7 @@
 >기술 스택:  
 >Java 8 / Spring Boot / Maven / Mybatis/ Oracle 
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/hardmin12/team-project1) 참고
 
 ---
 
@@ -35,7 +35,7 @@
 >기술 스택:  
 >Java 8 / Spring Boot / Maven / Spring Data JPA / Oracle / Spring Security  
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/hardmin12/team-project1) 참고
 
 ---
 
