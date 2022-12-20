@@ -18,7 +18,7 @@
 
 ## :pushpin: Projects
 ### 1. [Cosmetic](https://github.com/Integerous/goQuality)
->화장품 쇼핑몰 (팀 프로젝트)  
+>화장품 쇼핑몰 ( 프로젝트)  
 >개발 기간: 2022.11.15 ~ 2022.11.28  
 >  
 >기술 스택:  
