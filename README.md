@@ -19,7 +19,7 @@
 ## :pushpin: Projects
 ### 1. [댕네 한 바퀴](https://github.com/hardmin12/team-project1)
 >반려동물 친목 교류 사이트  (팀 프로젝트)  
->개발 기간: 2022.11.19 ~ 2022.12.5  
+>개발 기간: 2022.11.20 ~ 2022.12.5  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Maven / Spring Data JPA / Oracle / Spring Security  
@@ -30,7 +30,7 @@
 
 ### 2. [Cosmetic](https://github.com/hardmin12/team-project2)
 >화장품 쇼핑몰 ( 프로젝트)  
->개발 기간: 2022.11.15 ~ 2022.11.28  
+>개발 기간: 2022.11.14 ~ 2022.11.17  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Maven / Mybatis/ Oracle 
