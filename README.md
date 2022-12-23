@@ -31,7 +31,6 @@
 >화장품 쇼핑몰 ( 프로젝트)  
 >개발 기간: 2022.11.14 ~ 2022.11.17  
 >나의 역할: 장바구니
-> 
 >기술 스택: Java 8 / Spring Boot / Maven / Spring Jdbc / Oracle 
 >
 >[프로젝트 상세 설명](https://github.com/hardmin12/team-project2) 참고
