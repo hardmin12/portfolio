@@ -20,7 +20,7 @@
 ### 1. [댕네 한 바퀴](https://github.com/hardmin12/team-project1)
 >반려동물 친목 교류 웹서비스  (팀 프로젝트)  
 >개발 기간: 2022.11.20 ~ 2022.12.5  
->나의 역할: 마이 페이지, 로그인  
+>나의 역할: 마이 페이지, 로그인, 채팅
 >기술 스택: Java 8 / Spring Boot / Maven / Spring Data JPA / Oracle / Spring Security  
 >  
 >[프로젝트 상세 설명](https://github.com/hardmin12/team-project1) 참고
